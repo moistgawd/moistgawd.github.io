@@ -1,0 +1,12 @@
+.images {
+    display: flex;
+    margin: 20%;
+    
+}
+
+.dropdown {
+    
+    float: left;
+    margin-right: 75px;
+    margin-bottom: 100%;
+}
